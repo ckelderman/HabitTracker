@@ -13,7 +13,7 @@ import java.util.Random;
  * It randomly generates:
  * - 10 days of logs
  * - Daily attributes (sleep, wake time, screen time, etc.)
- * - 0 to 3 habits per day
+ * - 0 to 5 habits per day
  */
 
 public class FakeDataGenerator {
